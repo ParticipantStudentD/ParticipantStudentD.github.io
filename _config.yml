@@ -38,9 +38,8 @@ navigation_links:
 
   - title: Search
     url: /search
-  - title: contact us
-    url: /contactus
-  - title: Contact Us
+    
+  - title: contactus
     url: /contactus
 
 # Footer icons
