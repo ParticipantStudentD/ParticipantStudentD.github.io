@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Origin
-categories: [content, posts]
+categories: [content, demo]
 ---
 Greetings to you, traveller!
 
