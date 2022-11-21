@@ -4,6 +4,6 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+Hi, we are the new generation of coffee enjoyers!
+Spread the bean, show the love, drink that coffee!
+For the whole world to see that coffee is superior than our nemesis, **TEA**
