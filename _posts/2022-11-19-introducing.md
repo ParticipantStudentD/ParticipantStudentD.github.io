@@ -1,6 +1,6 @@
 ---
 layout: post
 title: HIGH ALERT
-categories: [content, demo]
+categories: [content, demo, posts]
 ---
-(h1) HELLO FELLO ENJOYERS
+HELLO FELLO ENJOYERS
