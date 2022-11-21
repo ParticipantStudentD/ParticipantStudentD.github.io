@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: posts.md
 title: Hello World
 categories: [content, demo]
 ---
