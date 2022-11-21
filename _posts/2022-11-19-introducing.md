@@ -1,6 +1,6 @@
 ---
 layout: post
 title: HIGH ALERT
-categories: [content, demo, posts]
+categories: [content, demo]
 ---
-HELLO FELLO ENJOYERS
+HELLO FELLOW ENJOYERS of the black gold
