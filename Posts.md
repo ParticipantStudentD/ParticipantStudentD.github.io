@@ -4,5 +4,6 @@ title: Posts
 permalink: /posts
 ---
 
-Well Hello there! (h2)
-Below you will find our creativity-producing posts!(h3)
+# Well Hello there!
+## Below you will find our creativity-producing posts :)
+### Just kidding. I don't know how to move posts from blog into posts
