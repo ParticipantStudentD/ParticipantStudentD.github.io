@@ -14,4 +14,4 @@ Although you may not see a pot of coffee brewing during a Sunday sermon, it’s 
 
 In the early 1600s, Pope Clement VIII allegedly blessed the beans to entice Christians to choose coffee over alcohol. Today, the beverage remains a staple in gatherings of most denominations and offshoots of Christianity, except for The Church of Latter-day Saints, also known as the Mormon church. Caffeinated beverages are banned in the Mormon faith due to their “mind altering” effects and “addictive” qualities.
 
-[read more at](https://www.coffeeordie.com/how-religions-view-coffee)
+[read more HERE](https://www.coffeeordie.com/how-religions-view-coffee)
