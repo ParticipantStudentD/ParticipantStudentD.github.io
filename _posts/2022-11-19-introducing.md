@@ -1,14 +1,11 @@
 ---
 layout: post
-title: HIGH ALERT
-categories: [content, demo]
+title: Origin
+categories: [posts, demo]
 ---
-#HELLO FELLOW ENJOYERS of the black gold
+Greetings to you, traveller!
 
 Today, I shall present to you the addidiotn of food and dirnk in religious contexts
-
-
-
 
 Various religions and spiritual practices have incorporated food and drink into their rituals throughout time. Certain dishes and beverages carry symbolic weight, whether adherents are partaking in communion or celebrating Passover Seder. Red wine and tea figure during certain rites and are noted in religious literature. Though coffee may not play an active role in religious services, followers of mainstream religions hold a range of attitudes toward the brew. We’ve investigated how coffee is integrated, if at all, among the faithful of different beliefs.
 
