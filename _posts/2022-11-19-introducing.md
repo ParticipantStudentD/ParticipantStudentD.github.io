@@ -1,1 +1,6 @@
-h1 HELLO FELLO ENJOYERS
+---
+layout: posts
+title: Hello World
+categories: [content, demo]
+---
+(h1) HELLO FELLO ENJOYERS
