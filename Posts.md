@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about
+title: Posts
+permalink: /posts
 ---
 
 Well Hello there! (h2)
