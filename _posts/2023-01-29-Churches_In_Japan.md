@@ -15,7 +15,7 @@ und mit verschiedenen Schlagbegriffen gefiltert. Hier begegnete ich dem ersten P
 der Tweets. Gut 70% der Sammlung stammten aus sogenannten Retweets, die von einer Hauptquelle
 zitiert wurden. Ganz wenige Stücke aus der Sammlung entsprachen Individuen (mit starken Meinungen),
 die zusätzlich ihre Argumente mit religiösen „Fakten“ bestärkt haben.
-(Bilder 1-3)
+require bild1.png
 Mein Fazit aus diesem Versuch leitete mich zu einem ganz anderen Thema und die dazugehörigen
 Tools. Da der vorherige Versuch kläglich gescheitert ist, widmete ich mich von nun an Geo-coding und
 Mapping. Dazu sammelte ich Informationen zu Vorkommnissen von katholisch christlichen Kirchen in
