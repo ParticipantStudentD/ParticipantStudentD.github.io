@@ -16,7 +16,7 @@ der Tweets. Gut 70% der Sammlung stammten aus sogenannten Retweets, die von eine
 zitiert wurden. Ganz wenige Stücke aus der Sammlung entsprachen Individuen (mit starken Meinungen),
 die zusätzlich ihre Argumente mit religiösen „Fakten“ bestärkt haben.
 ![bild2.png](https://github.com/ParticipantStudentD/ParticipantStudentD.github.io/blob/94e0b5ef61a8764a4c4ba17fbee4c6c0cf0400a7/bild2.png)
-<img src="img/bild1.PNG" class="img-responsive" alt=""> </div>
+<img src="img.bild1.PNG" class="img-responsive" alt=""> </div>
 Mein Fazit aus diesem Versuch leitete mich zu einem ganz anderen Thema und die dazugehörigen
 Tools. Da der vorherige Versuch kläglich gescheitert ist, widmete ich mich von nun an Geo-coding und
 Mapping. Dazu sammelte ich Informationen zu Vorkommnissen von katholisch christlichen Kirchen in
