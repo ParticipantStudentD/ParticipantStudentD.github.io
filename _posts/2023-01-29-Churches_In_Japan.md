@@ -26,10 +26,10 @@ Großzahl von katholisch christlichen Kirchen in Japan vorrübergehend in einer 
 der in Tokyo (Ebene Kantou).
 Hier war das Problem die Zugänglichkeit der Informationen. Auch wenn es Orte sind, die man
 „pinpointen“ kann gaben die offiziellen Internetseiten wenig über die jeweilige Kirche oder deren
-Mitglieder bekannt. Dies hat mich mit dem Tool „“ doch recht eingeschränkt, aber das war nicht weiter
+Mitglieder bekannt. Dies hat mich mit den Tools „Nominatim“ und "Palladio" doch recht eingeschränkt, aber das war nicht weiter
 schlimm. Man arbeitet mit dem, was man hat bzw. bekommen kann und das Beste daraus zu machen.
 Ich konnte die Information schön tabellarisch darstellen mit dem Hinblick auf zukünftige Arbeiten, dass
-man diese Informationen mit einem Klick aufrufen kann.
+man diese Informationen mit einem Klick aufrufen und vergleichen kann.
 Bei dem Mapping gab es allerdings Schwierigkeiten, diese Orte wie Pins auf der Karte anzeigen zu
 lassen, um das Ganze schön darzustellen. Hier bedarf es wohl anderer Tools oder Zusammenstellung
 von Information.
