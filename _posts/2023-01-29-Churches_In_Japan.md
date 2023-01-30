@@ -3,7 +3,7 @@ layout: post
 title: Upcoming
 categories: [content, demo]
 ---
-##Willkommen zurück liebe Leser*innen!(h2)
+## Willkommen zurück liebe Leser*innen!
 Nach langem Bangen und hin- und her, befasst sich dieser Eintrag in meinem Blog um Themenfindung,
 Themenwechsel und die damit verbundenen Schwierigkeiten.
 Schwierigkeiten in vielerlei Hinsicht; sei es Inhalt zum Präsentieren finden; Inhalt bzw. Information der
