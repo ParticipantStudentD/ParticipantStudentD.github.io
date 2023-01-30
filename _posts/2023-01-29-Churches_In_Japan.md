@@ -15,6 +15,7 @@ und mit verschiedenen Schlagbegriffen gefiltert. Hier begegnete ich dem ersten P
 der Tweets. Gut 70% der Sammlung stammten aus sogenannten Retweets, die von einer Hauptquelle
 zitiert wurden. Ganz wenige Stücke aus der Sammlung entsprachen Individuen (mit starken Meinungen),
 die zusätzlich ihre Argumente mit religiösen „Fakten“ bestärkt haben.
+![bild2.png](https://github.com/ParticipantStudentD/ParticipantStudentD.github.io/blob/94e0b5ef61a8764a4c4ba17fbee4c6c0cf0400a7/bild2.png)
 ![bild1.png](https://github.com/ParticipantStudentD/ParticipantStudentD.github.io/blob/ad9bb651469c115f8e0b27abc976e923f9ae170b/bild1.png)
 Mein Fazit aus diesem Versuch leitete mich zu einem ganz anderen Thema und die dazugehörigen
 Tools. Da der vorherige Versuch kläglich gescheitert ist, widmete ich mich von nun an Geo-coding und
@@ -32,6 +33,7 @@ man diese Informationen mit einem Klick aufrufen kann.
 Bei dem Mapping gab es allerdings Schwierigkeiten, diese Orte wie Pins auf der Karte anzeigen zu
 lassen, um das Ganze schön darzustellen. Hier bedarf es wohl anderer Tools oder Zusammenstellung
 von Information.
-(Bilder1-4)
-Ich halte Sie auf dem Laufenden und bis zum Nächsten mal
-AtD
+![bild3.png](https://github.com/ParticipantStudentD/ParticipantStudentD.github.io/blob/94e0b5ef61a8764a4c4ba17fbee4c6c0cf0400a7/bild3.png)
+![bild4.png](https://github.com/ParticipantStudentD/ParticipantStudentD.github.io/blob/94e0b5ef61a8764a4c4ba17fbee4c6c0cf0400a7/bild4.png)
+Wie genau es weiter geht muss wohl bedacht werden.
+...
